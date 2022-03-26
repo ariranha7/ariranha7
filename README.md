@@ -21,6 +21,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/diego-oliveira-5aab7b8b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BltgLk8glRaa9f9H%2FdFTFKg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ariranha7/ariranha7/blob/output/github-contribution-grid-snake.svg)
  
 </div>
