@@ -1,6 +1,6 @@
 ## Hi, I'm Diego Oliveira!
 
--🎓 I’m currently learning Software Engineering at 42 ecole | São Paulo
+-🎓 I’m currently learning Software Engineering at 42 école | São Paulo
 <div align="center">
   <a href="https://github.com/ariranha7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariranha7&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
